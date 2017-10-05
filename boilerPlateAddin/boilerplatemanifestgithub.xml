@@ -6,7 +6,7 @@
         <Version>1.0.0.0</Version>
         <ProviderName>Microsoft</ProviderName>
         <DefaultLocale>en-US</DefaultLocale>
-        <DisplayName DefaultValue="AWS Boilerplate content" />
+        <DisplayName DefaultValue="Github Boilerplate content" />
         <Description DefaultValue="WSInsert boilerplate content into a Word document." />
         <Hosts>
             <Host Name="Document"/>
